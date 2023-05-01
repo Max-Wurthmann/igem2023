@@ -14,8 +14,8 @@ def run(protocol: protocol_api.ProtocolContext):
     tiprack20 = protocol.load_labware('opentrons_96_tiprack_20ul', 2)
     tiprack300 = protocol.load_labware('opentrons_96_tiprack_300ul', 4)
 
-    pipette_p10 = protocol.load_instrument('p10_single', mount='right', tip_racks=[tiprack20]) # 1 - 10 µL
-    pipette_p300 = protocol.load_instrument('p300_single', mount='left', tip_racks=[tiprack300]) # 30 - 300 µL
+    pipette_p10 = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack20]) # 1 - 10 µL
+    pipette_p300 = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack300]) # 30 - 300 µL
 
 
     # start protocol
