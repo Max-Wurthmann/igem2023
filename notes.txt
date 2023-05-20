@@ -3,7 +3,7 @@ wir brauchen 2 96-Wellplates:
 2: Target wellplate (anfangs leer, am Ende 150 microL in jedem Well)
 
 Dann brauchen wir noch ein Reservoire mit Medium
-ggf auch eine 96 Wellplate mit 150 microL Medium in jedem Well
+ggf eine zusätzliche 96 Wellplate mit 150 microL Medium in jedem Well
 oder ein großes Reservoire mit 14,4 mL (=150 microL * 96) Medium
 
 Formel:
@@ -12,7 +12,14 @@ volumen * wollen / haben = volumen das wir von Preculture-Well zu Target-Well tr
 Gegeben
 wollen = 0.05 OD (Ziel OD)
 volumen = 150 micro (Zielvolumen)
+haben wird durch Platereader ergebnis für jeden Well vorgegeben
 
 Target well muss dann noch auf 150 microL aufgefüllt werden
+
+
+Platereaderoutput:
+Beispiel output von Platereader in EmptyPlateTest.xls
+potentiell weitere Zeilen am Anfang der Datei für Fehler und Warnungen
+
 
 wir müssen nicht steril arbeiten
