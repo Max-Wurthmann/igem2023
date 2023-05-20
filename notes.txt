@@ -1,0 +1,7 @@
+wollen / haben * volumen 
+with wollen = 0.05 OD
+with volumen = 150 micro
+
+how is the vicosität of the preculture? normal liquid
+sample output of the platereader
+what wellplate
