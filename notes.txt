@@ -1,7 +1,18 @@
-wollen / haben * volumen 
-with wollen = 0.05 OD
-with volumen = 150 micro
+wir brauchen 2 96-Wellplates:
+1: Wellplate mit preculture (150 microL in jedem Well)
+2: Target wellplate (anfangs leer, am Ende 150 microL in jedem Well)
 
-how is the vicosität of the preculture? normal liquid
-sample output of the platereader
-what wellplate
+Dann brauchen wir noch ein Reservoire mit Medium
+ggf auch eine 96 Wellplate mit 150 microL Medium in jedem Well
+oder ein großes Reservoire mit 14,4 mL (=150 microL * 96) Medium
+
+Formel:
+volumen * wollen / haben = volumen das wir von Preculture-Well zu Target-Well transfereieren
+
+Gegeben
+wollen = 0.05 OD (Ziel OD)
+volumen = 150 micro (Zielvolumen)
+
+Target well muss dann noch auf 150 microL aufgefüllt werden
+
+wir müssen nicht steril arbeiten
