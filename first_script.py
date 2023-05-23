@@ -26,7 +26,7 @@ def run(protocol: protocol_api.ProtocolContext):
                          wellplate["B1"],
                          trash=False)  # puts tip back where it got it, default: throw it in the trash at deck slot 12
 
-    target_p300 = wellplate.rows_by_name().get("A")[1-:5]
+    target_p300 = wellplate.rows_by_name().get("A")[1:5]
     pipette_p300.distribute(30,
                             wellplate["A1"],
                             target_p300,
