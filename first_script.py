@@ -1,4 +1,3 @@
-# pylint: disable=unspecified-encoding
 from opentrons import protocol_api
 
 metadata = {'apiLevel': '2.13'}
@@ -8,7 +7,6 @@ def run(protocol: protocol_api.ProtocolContext):
     protocol.set_rail_lights(True)
 
     # load hardware
-    # ToDo: we need to update the hardware specs
     wellplate = protocol.load_labware('corning_96_wellplate_360ul_flat', 1)
 
     tiprack20 = protocol.load_labware('opentrons_96_tiprack_20ul', 2)
