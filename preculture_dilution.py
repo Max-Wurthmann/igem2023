@@ -48,6 +48,12 @@ def run(protocol: protocol_api.ProtocolContext):
 
     preculture_transfer_volumes, media_tranfer_volumes = process_OD_inputs()
 
+    # opitmization:
+    # first distribute media with large aspiration steps and without dropping the tip
+
+    # second distribute preculture one by one
+
+
     # start protocol
     for row in rows: # letters "A" - "H"
         for col in cols: # numbers 0-11
