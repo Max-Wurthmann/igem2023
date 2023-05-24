@@ -1,0 +1,150 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Installieren Sie die neueste PowerShell für neue Funktionen und Verbesserungen! https://aka.ms/PSWindows
+
+. : Die Datei "C:\Users\mxwur\Documents\WindowsPowerShell\profile.ps1" kann nicht geladen werden, da die Ausführung
+von Skripts auf diesem System deaktiviert ist. Weitere Informationen finden Sie unter "about_Execution_Policies"
+(https:/go.microsoft.com/fwlink/?LinkID=135170).
+In Zeile:1 Zeichen:3
++ . 'C:\Users\mxwur\Documents\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : Sicherheitsfehler: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.188.208
+ssh: connect to host 169.254.188.208 port 22: Unknown error
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.188.208
+ssh: connect to host 169.254.188.208 port 22: Connection timed out
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.181.33
+The authenticity of host '169.254.181.33 (169.254.181.33)' can't be established.
+ECDSA key fingerprint is SHA256:k6kD2G/ARm/KITpdWcFmbglN8UOVATILNFedMoN3Ocg.
+This host key is known by the following other names/addresses:
+    C:\Users\mxwur/.ssh/known_hosts:1: 169.254.7.11
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '169.254.181.33' (ECDSA) to the list of known hosts.
+Enter passphrase for key 'ot2_ssh_key':
+
+
+      @@@@@    @@@@@
+    @@@@          @@@@
+   @@@      @@      @@@    @@@@@@   @@@@@
+  @@@      @@@@      @@@   @@@@@@  &@' '@@
+  @@     @@@@@@@@    &@@     @@         @@
+  @@    .@@@    @    #@@     @@        @@
+  @@@    @      @    @@@     @@       @@
+   @@@    @@..@@    @@@      @@      @@
+    @@@@          @@@@       @@     @@@@@&
+      @@@@@@@@@@@@@@         ##    &@@@@@#
+         (@@@@@@.
+
+
+# LS
+-sh: LS: not found
+# ls
+# pwd
+/root
+# cd ..
+# pwd
+/
+# ls
+bin         dev         lib         lost+found  opt         run         sys         var
+boot        etc         lib32       media       proc        sbin        tmp
+data        home        linuxrc     mnt         root        srv         usr
+# cd var/lib/jupyter/notebooks
+# pwd
+/var/lib/jupyter/notebooks
+# ls
+IGEM 2022            iGEM 2019            iGEM 2021            robot_settings.json
+# exit
+Connection to 169.254.181.33 closed.
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> scp -i ot2_ssh_key igem2023\test_input.txt root@169.254.181.33:/var/lib/jupyter/notebooks
+Enter passphrase for key 'ot2_ssh_key':
+Enter passphrase for key 'ot2_ssh_key':
+test_input.txt                                                                        100%    2     0.6KB/s   00:00
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_no_pp root@169.254.181.33
+
+
+      @@@@@    @@@@@
+    @@@@          @@@@
+   @@@      @@      @@@    @@@@@@   @@@@@
+  @@@      @@@@      @@@   @@@@@@  &@' '@@
+  @@     @@@@@@@@    &@@     @@         @@
+  @@    .@@@    @    #@@     @@        @@
+  @@@    @      @    @@@     @@       @@
+   @@@    @@..@@    @@@      @@      @@
+    @@@@          @@@@       @@     @@@@@&
+      @@@@@@@@@@@@@@         ##    &@@@@@#
+         (@@@@@@.
+
+
+# pwd
+/root
+# cd ../var/lib/jupyter/notebooks
+# pwd
+/var/lib/jupyter/notebooks
+# ls
+IGEM 2022            iGEM 2019            iGEM 2021            robot_settings.json  test_input.txt
+# cat test_input.txt
+C5#
+# exit
+Connection to 169.254.181.33 closed.
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> scp -i ot2_ssh_key igem2023\import_test.py root@169.254.181.33:/var/lib/jupyter/notebooks
+Enter passphrase for key 'ot2_ssh_key':
+import_test.py                                                                        100% 1294   338.1KB/s   00:00
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_no_pp root@169.254.181.33 "nohup opentrons_execute /var/lib/jupyter/notebooks/import_test.py"
+/root/.opentrons/robot_settings.json not found. Loading defaults
+Failed to initialize character device, will not be able to control gpios (lights, button, smoothiekill, smoothie reset). Only one connection can be made to the gpios at a time. If you need to control gpios, first stop the robot server withsystemctl stop opentrons-robot-server. Until you restart the server with systemctl start opentrons-robot-server, you will be unable to control the robot using the Opentrons app.
+This is intended to run on a robot, and while it can connect to a smoothie via a usb/serial adapter unexpected things using gpios (such as smoothie reset or light management) will fail. If you are seeing this message and you are running ona robot, you need to set the RUNNING_ON_PI environmental variable to 1.
+Deck calibration not found.
+/root/.opentrons/deck_calibration.json not found. Loading defaults
+Calibrations for P10SV1318060508 on LEFT does not exist.
+Calibrations for P3HSV1318051719 on RIGHT does not exist.
+Calibrations for P10SV1318060508 on LEFT does not exist.
+Calibrations for P3HSV1318051719 on RIGHT does not exist.
+Failed to connect to module server.
+Traceback (most recent call last):
+  File "usr/lib/python3.7/site-packages/opentrons/hardware_control/emulation/module_server/helpers.py", line 29, in listen_module_connection
+  File "usr/lib/python3.7/site-packages/opentrons/hardware_control/emulation/module_server/client.py", line 62, in connect
+OSError: Failed to connect to module_server at after 3 retries.
+Traceback (most recent call last):
+  File "usr/lib/python3.7/site-packages/opentrons/protocols/execution/execute_python.py", line 60, in run_python
+  File "<string>", line 1, in <module>
+  File "/var/lib/jupyter/notebooks/import_test.py", line 21, in run
+    pipette = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack20]) # 1 - 10 µL
+NameError: name 'tiprack20' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/bin/opentrons_execute", line 11, in <module>
+    load_entry_point('opentrons==6.3.0', 'console_scripts', 'opentrons_execute')()
+  File "usr/lib/python3.7/site-packages/opentrons/execute.py", line 402, in main
+  File "usr/lib/python3.7/site-packages/opentrons/execute.py", line 339, in execute
+  File "usr/lib/python3.7/site-packages/opentrons/protocols/execution/execute.py", line 27, in run_protocol
+  File "usr/lib/python3.7/site-packages/opentrons/protocols/execution/execute_python.py", line 71, in run_python
+opentrons.protocols.execution.errors.ExceptionInProtocolError: NameError [line 21]: name 'tiprack20' is not defined
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> scp -i ot2_no_pp igem2023\import_test.py root@169.254.181.33:/var/lib/jupyter/notebooks
+import_test.py                                                                        100% 1292   291.4KB/s   00:00
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_no_pp root@169.254.181.33 "nohup opentrons_execute /var/lib/jupyter/notebooks/import_test.py"
+/root/.opentrons/robot_settings.json not found. Loading defaults
+Failed to initialize character device, will not be able to control gpios (lights, button, smoothiekill, smoothie reset). Only one connection can be made to the gpios at a time. If you need to control gpios, first stop the robot server withsystemctl stop opentrons-robot-server. Until you restart the server with systemctl start opentrons-robot-server, you will be unable to control the robot using the Opentrons app.
+This is intended to run on a robot, and while it can connect to a smoothie via a usb/serial adapter unexpected things using gpios (such as smoothie reset or light management) will fail. If you are seeing this message and you are running ona robot, you need to set the RUNNING_ON_PI environmental variable to 1.
+Deck calibration not found.
+/root/.opentrons/deck_calibration.json not found. Loading defaults
+Calibrations for P10SV1318060508 on LEFT does not exist.
+Calibrations for P3HSV1318051719 on RIGHT does not exist.
+Calibrations for P10SV1318060508 on LEFT does not exist.
+Calibrations for P3HSV1318051719 on RIGHT does not exist.
+Failed to connect to module server.
+Traceback (most recent call last):
+  File "usr/lib/python3.7/site-packages/opentrons/hardware_control/emulation/module_server/helpers.py", line 29, in listen_module_connection
+  File "usr/lib/python3.7/site-packages/opentrons/hardware_control/emulation/module_server/client.py", line 62, in connect
+OSError: Failed to connect to module_server at after 3 retries.
+Calibrations for P10SV1318060508 on LEFT does not exist.
+Calibrations for P3HSV1318051719 on RIGHT does not exist.
+ Picking up tip from C5 of Opentrons 96 Tip Rack 20 µL on 2
+Tip length calibrations not found for P10SV1318060508
+ Homing pipette plunger on mount left
+ Returning tip
+         Dropping tip into C5 of Opentrons 96 Tip Rack 20 µL on 2
+PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons>
