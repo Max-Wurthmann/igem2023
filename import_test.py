@@ -8,11 +8,9 @@ def run(protocol: protocol_api.ProtocolContext):
     protocol.set_rail_lights(True)
 
     with open("test_input.txt") as f:
-        lines = f.readlines()
+        text = f.read()
 
-    lines = [line.strip() for line in lines]
-
-    source, target = lines
+    target = text.strip()
 
     # load hardware
     wellplate = protocol.load_labware('corning_96_wellplate_360ul_flat', 1)
@@ -21,19 +19,11 @@ def run(protocol: protocol_api.ProtocolContext):
 
     pipette = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack]) # 30 - 300 µL
 
-    volume = 150 #transfer <volume> ul to the well and back
-
-    pipette.pick_up_tip()
-
-    pipette.aspirate(volume, wellplate[source])
-    pipette.dispense(volume, wellplate[target])
+    pipette.pick_up_tip(tiprack[target])
+    pipette.home()
+    pipette.return_tip()
 
     time.sleep(3)
-
-    pipette.aspirate(volume, wellplate[target])
-    pipette.dispense(volume, wellplate[source])
-
-    pipette.return_tip()
 
     protocol.set_rail_lights(False) # signifies: done with protocol
 

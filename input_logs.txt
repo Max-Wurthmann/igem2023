@@ -1,0 +1,4 @@
+Picking up tip from C5 of Opentrons 96 Tip Rack 300 �L on 4: {'instrument': <InstrumentContext: p300_single_v1 in RIGHT>, 'location': C5 of Opentrons 96 Tip Rack 300 �L on 4, 'text': 'Picking up tip from C5 of Opentrons 96 Tip Rack 300 �L on 4'}
+Homing pipette plunger on mount right: {'axis': 'right', 'text': 'Homing pipette plunger on mount right'}
+Returning tip: {'text': 'Returning tip'}
+Dropping tip into C5 of Opentrons 96 Tip Rack 300 �L on 4: {'instrument': <InstrumentContext: p300_single_v1 in RIGHT>, 'location': Location(point=Point(x=50.38, y=146.74, z=35.04), labware=C5 of Opentrons 96 Tip Rack 300 �L on 4), 'text': 'Dropping tip into C5 of Opentrons 96 Tip Rack 300 �L on 4'}
