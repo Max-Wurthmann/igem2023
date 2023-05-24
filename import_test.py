@@ -15,10 +15,10 @@ def run(protocol: protocol_api.ProtocolContext):
     # load hardware
     wellplate = protocol.load_labware('corning_96_wellplate_360ul_flat', 1)
 
-    tiprack = protocol.load_labware('opentrons_96_tiprack_300ul', 4)
-
-    pipette = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack]) # 30 - 300 µL
-
+    tiprack = protocol.load_labware('opentrons_96_tiprack_20ul', 2)
+    
+    pipette = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack20]) # 1 - 10 µL
+    
     pipette.pick_up_tip(tiprack[target])
     pipette.home()
     pipette.return_tip()
