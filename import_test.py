@@ -36,6 +36,6 @@ if __name__ == "__main__":
     
     # save the logs
     cleaned_logs = ["{}: {}".format(log["payload"]["text"], log["payload"]) for log in logs[0]]
-    with open("input_logs.txt", "w+") as f:
+    with open("logs/input_logs.txt", "w+") as f:
         f.write("\n".join(cleaned_logs))
         
