@@ -46,6 +46,9 @@ def run(protocol: protocol_api.ProtocolContext):
     pipette_p10 = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack20]) # 1 - 10 µL
     pipette_p300 = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack300]) # 30 - 300 µL
 
+    p300_min_transfer_volume = 30
+    p10_max_transfer_volume = 10 
+
     preculture_transfer_volumes, media_tranfer_volumes = process_OD_inputs()
 
     # opitmization:
@@ -54,31 +57,64 @@ def run(protocol: protocol_api.ProtocolContext):
     # second distribute preculture one by one
 
 
-    # start protocol
+    # distribute medium
+
+    if np.any(media_tranfer_volumes < p300_min_transfer_volume):
+        # we need p10 for some steps
+        pipette_p10.pick_up_tip()
+
+    if np.any(media_tranfer_volumes >= p300_min_transfer_volume):
+        # we can use p300 for some steps
+        pipette_p300.pick_up_tip()
+
     for row in rows: # letters "A" - "H"
         for col in cols: # numbers 0-11
-            preculture_well = preculture_wells.rows_by_name()[row][col]
-            target_well = target_wells.rows_by_name()[row][col]
-            media_well = media_wells.rows_by_name()[row][col]
-
-            preculture_volume = preculture_transfer_volumes.loc[row, col]
+            
             media_volume = media_tranfer_volumes.loc[row, col]
 
-            # transfer media
-            pipette = pipette_p300 if media_volume > 30 else pipette_p10
+            if media_volume <= 0:
+                continue #nothing to transfer
+                
+            
+            media_well = media_wells.rows_by_name()[row][col]
+            target_well = target_wells.rows_by_name()[row][col]
 
-            if media_volume > 0:
-                pipette.transfer(media_volume,
-                                 media_well,
-                                 target_well)
+            # select appropriate pipette
+            pipette = pipette_p300 if media_volume >= p300_min_transfer_volume else pipette_p10
+            
+            # transfer without picking up or dropping a tip
+            pipette.transfer(media_volume,
+                                media_well,
+                                target_well,
+                                new_tip = "never") 
+        
+    #drop tips
+    if pipette_p10.has_tip(): pipette_p10.drop_tip()
+    if pipette_p300.has_tip(): pipette_p300.drop_tip()
+    
+    
+    #transfer preculture
+    for row in rows: # letters "A" - "H"
+        for col in cols: # numbers 0-11
+            
+            preculture_volume = preculture_transfer_volumes.loc[row, col]
 
+            if preculture_volume <= 0:
+                continue #nothing to transfer
+                
+            
+            target_well = target_wells.rows_by_name()[row][col]
+            preculture_well = preculture_wells.rows_by_name()[row][col]
+
+            # select appropriate pipette
+            pipette = pipette_p300 if preculture_volume > p300_min_transfer_volume else pipette_p10
+            
             # transfer preculture
-            pipette = pipette_p300 if preculture_volume > 30 else pipette_p10
-
             if preculture_volume > 0:
                 pipette.transfer(preculture_volume,
                                  preculture_well,
-                                 target_well)
+                                 target_well,
+                                 new_tip = "always")
 
 
     protocol.set_rail_lights(False) # signifies: done with protocol
