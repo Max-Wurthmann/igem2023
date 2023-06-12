@@ -6,7 +6,7 @@ from typing import Literal
 
 metadata = {'apiLevel': '2.13'}
 
-plate_readings_file = "EmpyPlateTest.xls"
+plate_readings_file = "PlateReadings.xls"
 
 # desired values in target plate
 target_OD = 0.05
@@ -47,11 +47,12 @@ def run(protocol: protocol_api.ProtocolContext):
     target_wells = protocol.load_labware('corning_96_wellplate_360ul_flat', 1)
     media_wells = protocol.load_labware('corning_96_wellplate_360ul_flat', 4)
 
-    tiprack20 = protocol.load_labware('opentrons_96_tiprack_20ul', 5)
-    tiprack300 = protocol.load_labware('opentrons_96_tiprack_300ul', 3)
+    tiprack_20ul = protocol.load_labware('opentrons_96_tiprack_20ul', 5)
+    tiprack_300ul = protocol.load_labware('opentrons_96_tiprack_300ul', 3)
+    tiprack_300ul_2 = protocol.load_labware('opentrons_96_tiprack_300ul', 6)
 
-    pipette_p10 = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack20]) # 1 - 10 µL
-    pipette_p300 = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack300]) # 30 - 300 µL
+    pipette_p10 = protocol.load_instrument('p10_single', mount='left', tip_racks=[tiprack_20ul]) # 1 - 10 µL
+    pipette_p300 = protocol.load_instrument('p300_single', mount='right', tip_racks=[tiprack_300ul, tiprack_300ul_2]) # 30 - 300 µL
 
     p300_min_transfer_volume = 30
 
@@ -74,6 +75,7 @@ def run(protocol: protocol_api.ProtocolContext):
         else: 
             raise ValueError("unknown pipette")
         
+        
         if new_tip == "never":
             pipette.pick_up_tip() #only pick up one tip at the start
 
@@ -95,9 +97,8 @@ def run(protocol: protocol_api.ProtocolContext):
                                 target,
                                 new_tip = new_tip) 
 
-
-        if pipette.has_tip(): 
-            pipette.drop_tip()
+        if pipette.has_tip: 
+            pipette.return_tip()
 
         return 
 
@@ -109,7 +110,8 @@ def run(protocol: protocol_api.ProtocolContext):
     # transfer preculture
     transfer_to_target(pipette_p10, preculture_transfer_volumes, preculture_wells, new_tip="always")
     transfer_to_target(pipette_p300, preculture_transfer_volumes, preculture_wells, new_tip="always")
-
+    
+    
     protocol.set_rail_lights(False) # signifies: done with protocol
 
 
