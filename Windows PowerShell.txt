@@ -1,20 +1,6 @@
 Windows PowerShell
 Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
 
-Installieren Sie die neueste PowerShell für neue Funktionen und Verbesserungen! https://aka.ms/PSWindows
-
-. : Die Datei "C:\Users\mxwur\Documents\WindowsPowerShell\profile.ps1" kann nicht geladen werden, da die Ausführung
-von Skripts auf diesem System deaktiviert ist. Weitere Informationen finden Sie unter "about_Execution_Policies"
-(https:/go.microsoft.com/fwlink/?LinkID=135170).
-In Zeile:1 Zeichen:3
-+ . 'C:\Users\mxwur\Documents\WindowsPowerShell\profile.ps1'
-+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : Sicherheitsfehler: (:) [], PSSecurityException
-    + FullyQualifiedErrorId : UnauthorizedAccess
-PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.188.208
-ssh: connect to host 169.254.188.208 port 22: Unknown error
-PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.188.208
-ssh: connect to host 169.254.188.208 port 22: Connection timed out
 PS C:\Users\mxwur\Documents\Studium\IGEM\Opentrons> ssh -i ot2_ssh_key root@169.254.181.33
 The authenticity of host '169.254.181.33 (169.254.181.33)' can't be established.
 ECDSA key fingerprint is SHA256:k6kD2G/ARm/KITpdWcFmbglN8UOVATILNFedMoN3Ocg.
