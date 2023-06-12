@@ -25,6 +25,20 @@ potentiell weitere Zeilen am Anfang der Datei für Fehler und Warnungen
 wir müssen nicht steril arbeiten
 
 
+
+-----------------------------------------------------------
+
+TErminal connection to the Robot
+
+----------------------------------------------------------_
+
+if not using the app but commandline / jupyter notebooks to run scripts, first stop the server:
+systemctl stop opentrons-robot-server
+
+if necessary:
+systemctl start opentrons-robot-server
+
+
 ssh und scp 
 
 locations on ot:
@@ -36,10 +50,10 @@ or
 wired IP (today):
 169.254.181.33
 
-scp -i ot2_ssh_key igem2023\test_input.txt root@169.254.181.33:/var/lib/jupyter/notebooks
+scp -i ot2_no_pp igem2023\test_input.txt root@169.254.181.33:/var/lib/jupyter/notebooks
 
 and then use ssh to remote into the robot and start the protocol:
 
-ssh -i ot2_ssh_key root@ROBOT_IP "nohup opentrons_execute path/to/protocol.py"
+ssh -i ot2_no_pp root@169.254.181.33 "nohup opentrons_execute /var/lib/jupyter/notebooks/import_test.py
 
 The nohup command means the command will continue even if the SSH session goes away. It makes sure the ssh command exits immediately and leaves the protocol running on its own. Without the nohup command, the protocol will stop if interrupted on your computer.
