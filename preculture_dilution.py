@@ -1,6 +1,8 @@
 from opentrons import protocol_api
+from opentrons.protocol_api import InstrumentContext, Labware
 import numpy as np
 import pandas as pd
+from typing import Literal
 
 metadata = {'apiLevel': '2.13'}
 
@@ -13,16 +15,21 @@ target_volume = 150
 rows = [chr(x) for x in range(ord("A"), ord("H")+1)] #letters from A to H
 cols = list(range(12))
 
+
+def get_transfer_volume(preculture_OD):
+    """for a given preculture OD this returns the transfer volume in microL to obtain an OD of {@param target_OD} with a given {@param target_volume}"""
+    transfer_volume = target_volume * target_OD / preculture_OD # volumen * wollen / haben
+    return transfer_volume
+
+
 def process_OD_inputs():
     preculture_ODs = pd.read_excel(plate_readings_file, index_col=0, names=cols).loc[rows, cols].astype("float")
 
+    if np.any(preculture_ODs < 0):
+        raise ValueError("preculture OD below 0")
+
     if np.any(preculture_ODs < target_OD):
         print(f"Warning: At least one of the precultre ODs is below {target_OD} (OD)") 
-    
-    def get_transfer_volume(preculture_OD):
-        """for a given preculture OD this returns the transfer volume in microL to obtain an OD of {@param target_OD} with a given {@param target_volume}"""
-        transfer_volume = target_volume * target_OD / preculture_OD # volumen * wollen / haben
-        return transfer_volume
     
     preculture_transfer_volumes = preculture_ODs.applymap(get_transfer_volume)
 
@@ -56,9 +63,46 @@ def run(protocol: protocol_api.ProtocolContext):
 
     # second distribute preculture one by one
 
+    def transfer_to_target(pipette: InstrumentContext,
+                            volumes: pd.DataFrame, 
+                            source_wells: Labware,
+                            new_tip: Literal["never", "always"]
+                            ):
+        if pipette == pipette_p10:
+            pipette_applicable = lambda volume: 0 < volume <= p300_min_transfer_volume
+        elif pipette == pipette_p300:
+            pipette_applicable = lambda volume: p300_min_transfer_volume < volume
+        else: 
+            raise ValueError("unknown pipette")
+        
+        if new_tip == "never":
+            pipette.pick_up_tip() #only pick up one tip at the start
 
-    # distribute medium
+        for row in rows: # letters "A" - "H"
+            for col in cols: # numbers 0-11
+                
+                volume = volumes.loc[row, col]
 
+                if not pipette_applicable(volume):
+                    # pipette not recommended for volume, other pipette will handle this
+                    continue
+                    
+                source = source_wells.rows_by_name()[row][col]
+                target = target_wells.rows_by_name()[row][col]
+
+                # transfer without picking up or dropping a tip
+                pipette.transfer(volume,
+                                source,
+                                target,
+                                new_tip = new_tip) 
+
+
+        if pipette.has_tip(): pipette.drop_tip()
+        return 
+
+
+    # transfer medium
+    # pick up tips as required
     if np.any(media_tranfer_volumes < p300_min_transfer_volume):
         # we need p10 for some steps
         pipette_p10.pick_up_tip()
@@ -75,7 +119,6 @@ def run(protocol: protocol_api.ProtocolContext):
             if media_volume <= 0:
                 continue #nothing to transfer
                 
-            
             media_well = media_wells.rows_by_name()[row][col]
             target_well = target_wells.rows_by_name()[row][col]
 
@@ -118,6 +161,8 @@ def run(protocol: protocol_api.ProtocolContext):
 
 
     protocol.set_rail_lights(False) # signifies: done with protocol
+
+
 
 
 if __name__ == "__main__":
