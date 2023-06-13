@@ -1,5 +1,5 @@
 from opentrons import protocol_api
-from opentrons.protocol_api import InstrumentContext, Labware
+from opentrons.protocol_api import InstrumentContext, Labware, ProtocolContext
 import numpy as np
 import pandas as pd
 from typing import Literal
@@ -38,7 +38,7 @@ def process_OD_inputs():
 
     return preculture_transfer_volumes, media_tranfer_volumes
 
-def run(protocol: protocol_api.ProtocolContext):
+def run(protocol: ProtocolContext):
     # use raillights as sign of beeing active
     protocol.set_rail_lights(True)
 
@@ -63,53 +63,57 @@ def run(protocol: protocol_api.ProtocolContext):
 
     # second distribute preculture one by one
 
-    def transfer_to_target(pipette: InstrumentContext,
-                            volumes: pd.DataFrame, 
+    def transfer_to_target(volumes: pd.DataFrame, 
                             source_wells: Labware,
                             new_tip: Literal["never", "always"]
                             ):
-        if pipette == pipette_p10:
-            pipette_applicable = lambda volume: 0 < volume <= p300_min_transfer_volume
-        elif pipette == pipette_p300:
-            pipette_applicable = lambda volume: p300_min_transfer_volume < volume
-        else: 
-            raise ValueError("unknown pipette")
-        
-        
-        if new_tip == "never":
-            pipette.pick_up_tip() #only pick up one tip at the start
+        """
+        transfer the given volums from the given source_wells to the targetwells
+        new_tip = "never" will pick up one tip at the start if necessary
+        and drop it at the end
+        new_tip = "always" will pick up a new tip for every transfer
+        """
+        for pipette in [pipette_p10, pipette_p300]:
+            if pipette == pipette_p10:
+                pipette_applicable = lambda volume: 0 < volume <= p300_min_transfer_volume
+            elif pipette == pipette_p300:
+                pipette_applicable = lambda volume: p300_min_transfer_volume < volume
+            
+            if not np.any(pipette_applicable(volumes)):
+                # pipette not applicable to any volume, 
+                # proceeding to next pipette
+                continue
 
-        for row in rows: # letters "A" - "H"
-            for col in cols: # numbers 0-11
-                
-                volume = volumes.loc[row, col]
+            if new_tip == "never":
+                pipette.pick_up_tip() #only pick up one tip at the start
 
-                if not pipette_applicable(volume):
-                    # pipette not recommended for volume, other pipette will handle this
-                    continue
+            for row in rows: # letters "A" - "H"
+                for col in cols: # numbers 0-11
                     
-                source = source_wells.rows_by_name()[row][col]
-                target = target_wells.rows_by_name()[row][col]
+                    volume = volumes.loc[row, col]
 
-                # transfer without picking up or dropping a tip
-                pipette.transfer(volume,
-                                source,
-                                target,
-                                new_tip = new_tip) 
+                    if not pipette_applicable(volume):
+                        # pipette not recommended for volume, other pipette will handle this
+                        continue
+                        
+                    source = source_wells.rows_by_name()[row][col]
+                    target = target_wells.rows_by_name()[row][col]
 
-        if pipette.has_tip: 
-            pipette.return_tip()
+                    # transfer without picking up or dropping a tip
+                    pipette.transfer(volume,
+                                    source,
+                                    target,
+                                    new_tip = new_tip) 
 
-        return 
+            if pipette.has_tip: 
+                pipette.drop_tip() 
 
 
     # transfer medium
-    transfer_to_target(pipette_p10, media_tranfer_volumes, media_wells, new_tip="never")
-    transfer_to_target(pipette_p300, media_tranfer_volumes, media_wells, new_tip="never")
+    transfer_to_target(media_tranfer_volumes, media_wells, new_tip="never")
 
     # transfer preculture
-    transfer_to_target(pipette_p10, preculture_transfer_volumes, preculture_wells, new_tip="always")
-    transfer_to_target(pipette_p300, preculture_transfer_volumes, preculture_wells, new_tip="always")
+    transfer_to_target(preculture_transfer_volumes, preculture_wells, new_tip="always")
     
     
     protocol.set_rail_lights(False) # signifies: done with protocol
