@@ -1,0 +1,1028 @@
+Picking up tip from A1 of Opentrons 96 Tip Rack 300 µL on 3
+Distributing 115.0 from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to A1 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to A1 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into A11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into A12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into B2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A1 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to B4 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to B4 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into B5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into B7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into B9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into B11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into B12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A2 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to C7 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to C7 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into C11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into C12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into D2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into D4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into D6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into D8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A3 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to D10 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to D10 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into D11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into D12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into E11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A4 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into E12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to F1 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to F1 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into F11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into F12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into G2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A5 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to G4 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to G4 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into G5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into G7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into G9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into G11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into G12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 115.0 uL from A6 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Distributing 115.0 from A7 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to H7 of Corning 96 Well Plate 360 µL Flat on 1
+Transferring 115.0 from A7 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 to H7 of Corning 96 Well Plate 360 µL Flat on 1
+Aspirating 230.0 uL from A7 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A7 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 230.0 uL from A7 of Opentrons 96 Deep Well Adapter with NEST Deep Well Plate 2 mL on 4 at 150.0 uL/sec
+Dispensing 115.0 uL into H11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dispensing 115.0 uL into H12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 115.0 from A1 of Corning 96 Well Plate 360 µL Flat on 2 to A1 of Corning 96 Well Plate 360 µL Flat on 1
+Picking up tip from B1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from A12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into A12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from A12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from A12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into A12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H2 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H3 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from B12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into B12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from B12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from B12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into B12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H4 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from C12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into C12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from C12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from C12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into C12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H5 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H6 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from D12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into D12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from D12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from D12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into D12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H7 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from E12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into E12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from E12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from E12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into E12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H8 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H9 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from F12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into F12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from F12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from F12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into F12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H10 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from G12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into G12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from G12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from G12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into G12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H1 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H1 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H1 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H2 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H2 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H2 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H11 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H3 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H3 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H3 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H4 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H4 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H4 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H5 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H5 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H5 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H6 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H6 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H6 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H7 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H7 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H7 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H8 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H8 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H8 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H9 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H9 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H9 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H10 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H10 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H10 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H12 of Opentrons 96 Tip Rack 300 µL on 3
+Aspirating 115.0 uL from H11 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H11 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H11 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons 96 Tip Rack 300 µL on 5
+Aspirating 115.0 uL from H12 of Corning 96 Well Plate 360 µL Flat on 2 at 150.0 uL/sec
+Dispensing 115.0 uL into H12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Mixing 2 times with a volume of 172.5 ul
+Aspirating 172.5 uL from H12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Aspirating 172.5 uL from H12 of Corning 96 Well Plate 360 µL Flat on 1 at 150.0 uL/sec
+Dispensing 172.5 uL into H12 of Corning 96 Well Plate 360 µL Flat on 1 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
