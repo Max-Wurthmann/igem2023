@@ -21,8 +21,7 @@ Platereaderoutput:
 Beispiel output von Platereader in EmptyPlateTest.xls
 potentiell weitere Zeilen am Anfang der Datei für Fehler und Warnungen
 
-
-wir müssen nicht steril arbeiten
+roboter nicht steril
 
 
 
@@ -56,4 +55,8 @@ and then use ssh to remote into the robot and start the protocol:
 
 ssh -i ot2_no_pp root@169.254.181.33 "nohup opentrons_execute /var/lib/jupyter/notebooks/import_test.py
 
-The nohup command means the command will continue even if the SSH session goes away. It makes sure the ssh command exits immediately and leaves the protocol running on its own. Without the nohup command, the protocol will stop if interrupted on your computer.
+to execute a script use following command on the robot
+opentrons_execute /var/lib/jupyter/notebooks/my_script.py
+adding nohub infront will make the execution continue even if the SSH session stops.
+it makes the command return quickly.
+Without the nohup command, the protocol will stop if interrupted on your computer.
