@@ -115,6 +115,7 @@ def run(protocol: ProtocolContext):
     # transfer preculture
     transfer_to_target(preculture_transfer_volumes, preculture_wells, new_tip="always")
     
+    protocol.home()
     
     protocol.set_rail_lights(False) # signifies: done with protocol
 

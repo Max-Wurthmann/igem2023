@@ -1,0 +1,8 @@
+
+get 230 ul medium with bacteria in 96-Wellplate Plate1
+
+1. P2 glycerol 115ul in every well (form 1 or 2 wells in deep wellplate) (one tip)
+2. transfer 115ul from P1 to P2 for each well
+3. mix by aspirate and dispensing into same well (p2)
+
+
